@@ -1,4 +1,5 @@
-## Hi there 👋
+## Rakhan Aimbetov
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0131--4530-brightgreen?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0131-4530)  
 
 <!--
 **raimbetov/raimbetov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
